@@ -21,7 +21,14 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="login/*" element={<Login />} />
-            <ProtectedRoute path="conta/*" element={<User />} />
+            <Route
+              path="conta/*"
+              element={
+                <ProtectedRoute redirectTo="/login">
+                  <User />
+                </ProtectedRoute>
+              }
+            />
           </Routes>
           <Footer />
         </UserStorage>
