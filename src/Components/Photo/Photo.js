@@ -5,6 +5,8 @@ import useFetch from "../../Hooks/useFetch";
 import { PHOTO_GET } from "../../api";
 import Error from "../Helper/Error";
 import Loading from "../Helper/Loading";
+import Head from "../Helper/Head";
+
 import PhotoContent from "./PhotoContent";
 
 const Photo = () => {
@@ -22,6 +24,7 @@ const Photo = () => {
   if (data)
     return (
       <section className="container mainContainer">
+        <Head title={data.photo.title} />
         <PhotoContent data={data} single={true} />
       </section>
     );

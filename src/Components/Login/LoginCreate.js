@@ -1,13 +1,14 @@
 import React from "react";
 
-import useForm from "../../Hooks/useForm";
-import { UserContext } from "../../UserContext";
 import { USER_POST } from "../../api";
+import { UserContext } from "../../UserContext";
+import useForm from "../../Hooks/useForm";
+import useFetch from "../../Hooks/useFetch";
 import Error from "../Helper/Error";
+import Head from "../Helper/Head";
 
 import Input from "../Forms/Input";
 import Button from "../Forms/Button";
-import useFetch from "../../Hooks/useFetch";
 
 const LoginCreate = () => {
   const username = useForm();
@@ -31,6 +32,7 @@ const LoginCreate = () => {
 
   return (
     <section className="animeLeft">
+      <Head title="Crie sua conta" />
       <h1 className="title">Cadastre-se</h1>
       <form onSubmit={handleSubmit}>
         <Input label="Usuário" type="text" name="username" {...username} />
