@@ -37,22 +37,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :hammer_and_wrench: Funcionalidades
 
-<ul style="list-style: none">
-  <li>:heavy_check_mark: Cadastro de usuário</li>
-  <li>:heavy_check_mark: Login do usuário</li>
-  <li>:heavy_check_mark: Recuperar a senha</li>
-  <li>:heavy_check_mark: Painel de controle da conta</li>
-  <li>:heavy_check_mark: Feed com todas as fotos do usuário</li>
-  <li>:heavy_check_mark: Postar uma nova foto</li>
-  <li>:heavy_check_mark: Deletar o post com a foto</li>
-  <li>:heavy_check_mark: Dashboard com as estatísticas da conta do usuário</li>
-  <li>:heavy_check_mark: Feed da página inicial com os posts de todos os usuários</li>
-  <li>:heavy_check_mark: Scrool infinito</li>
-  <li>:heavy_check_mark: Poder visualizar a foto de outro usuário e fazer um comentário</li>
-  <li>:heavy_check_mark: Número de visualizações</li>
-  <li>:heavy_check_mark: Animações e animação ao carregar</li>
-  <li>:heavy_check_mark: Design responsivo</li>
-</ul>
+  <p>:heavy_check_mark: Cadastro de usuário</p>
+  <p>:heavy_check_mark: Login do usuário</p>
+  <p>:heavy_check_mark: Recuperar a senha</p>
+  <p>:heavy_check_mark: Painel de controle da conta</p>
+  <p>:heavy_check_mark: Feed com todas as fotos do usuário</p>
+  <p>:heavy_check_mark: Postar uma nova foto</p>
+  <p>:heavy_check_mark: Deletar o post com a foto</p>
+  <p>:heavy_check_mark: Dashboard com as estatísticas da conta do usuário</p>
+  <p>:heavy_check_mark: Feed da página inicial com os posts de todos os usuários</p>
+  <p>:heavy_check_mark: Scrool infinito</p>
+  <p>:heavy_check_mark: Poder visuapzar a foto de outro usuário e fazer um comentário</p>
+  <p>:heavy_check_mark: Número de visuapzações</p>
+  <p>:heavy_check_mark: Animações e animação ao carregar</p>
+  <p>:heavy_check_mark: Design responsivo</p>
 
 ## :gear: Instalação e execução
 
