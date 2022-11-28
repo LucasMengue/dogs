@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Dogs é um projeto desenvolvido com o intuito de ser uma rede social para cachorros, onde o usuário tem as opções de criar um usuário, postar fotos de seus cachorros e interajir com outros usuários, vendo suas fotos e comentando sobre elas. Este projeto foi criado exclusivamente usando a biblioteca ReactJS, muito por ser uma ferramenta criada em cima da linguagem de programação JavaScript, como também pela sua facilidade em poder criar interfaces complexas.
+Dogs é um projeto desenvolvido com o intuito de ser uma rede social para cachorros, onde o usuário tem as opções de criar um usuário, postar fotos de seus cachorros e interajir com outros usuários, vendo suas fotos e comentando sobre elas. Este projeto foi criado exclusivamente usando a biblioteca ReactJS, muito por ser uma ferramenta criada em cima da linguagem de programação JavaScript, como também pela sua facilidade em poder criar interfaces complexas. Também foi utilizado a API Dogs, criada pela origamid para fazer as requisições de dados.
 
 ## 🧰 Tecnologias
 
@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <ul>
   <li>HTML</li>
-  <li>CSS</li>
+  <li>CSS (CSS Module)</li>
   <li>ReactJS</li>
       <ul>
           <li>Componentes</li>
@@ -37,7 +37,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :hammer_and_wrench: Funcionalidades
 
-<p>Em construção</p>
+<ul style="list-style: none">
+  <li>:heavy_check_mark: Cadastro de usuário</li>
+  <li>:heavy_check_mark: Login do usuário</li>
+  <li>:heavy_check_mark: Recuperar a senha</li>
+  <li>:heavy_check_mark: Painel de controle da conta</li>
+  <li>:heavy_check_mark: Feed com todas as fotos do usuário</li>
+  <li>:heavy_check_mark: Postar uma nova foto</li>
+  <li>:heavy_check_mark: Deletar o post com a foto</li>
+  <li>:heavy_check_mark: Dashboard com as estatísticas da conta do usuário</li>
+  <li>:heavy_check_mark: Feed da página inicial com os posts de todos os usuários</li>
+  <li>:heavy_check_mark: Scrool infinito</li>
+  <li>:heavy_check_mark: Poder visualizar a foto de outro usuário e fazer um comentário</li>
+  <li>:heavy_check_mark: Número de visualizações</li>
+  <li>:heavy_check_mark: Animações e animação ao carregar</li>
+  <li>:heavy_check_mark: Design responsivo</li>
+</ul>
 
 ## :gear: Instalação e execução
 
