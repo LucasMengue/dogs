@@ -63,6 +63,8 @@ _ps: Para poder rodar perfeitamente o projeto instalando todas as dependências 
 5. Rode `npm install` para instalar as dependências do projeto;
 6. Rode `npm start` para o servidor de desenvolvimento iniciar, então irá executar automaticamente em seu navegador padrão.
 
+:exclamation: Caso queira acessar o projeto final sem baixar em seu computador, também pode acessar através <a href="https://dogs-lucasmengue.vercel.app/">deste link</a>.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
